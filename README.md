@@ -43,6 +43,8 @@
 ## Room for Improvement
 - Dataset for recognizing different languages other than english can be added to make this project more functional.
 - Different test cases can run to provide more scope for exception handling.
+## Video Demonstration
+https://drive.google.com/file/d/1diwYwsbmizCj2S2llHPpS5d3HT72O-xt/view?usp=drivesdk
 
 
 ## Acknowledgements
